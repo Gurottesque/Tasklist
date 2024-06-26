@@ -1,6 +1,6 @@
 # Gestor de tareas en React
 
-Este es un proyecto sencillo de un gestor de tareas desarrollada en React.
+Este es un proyecto sencillo de un gestor de tareas desarrollada en React, los principales cambios fueron añadir los filtros de busquedas de tareas y la modificacion de la personalización
 
 ## Instalación
 
