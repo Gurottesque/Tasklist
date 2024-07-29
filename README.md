@@ -1,24 +1,27 @@
-# Gestor de tareas en React
+# React tasklist
 
-Este es un proyecto sencillo de un gestor de tareas desarrollada en React, los principales cambios fueron añadir los filtros de busquedas de tareas y la modificacion de la personalización
+This is a simple react tasklist app to add and modifie tasks
 
-## Instalación
+## Instalation
 
-Antes de comenzar, asegúrate de tener Node.js y npm instalados en tu máquina.
+Before begining, ensure you have node installed in your computer
 
-1. **Clona el repositorio:**
+1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/tu_usuario/nombre_de_tu_repositorio.git
-   cd nombre_de_tu_repositorio
+   git clone https://github.com/Gurottesque/Tasklist
+   cd Tasklist
    ```
    
-2. Instala las dependencias:
+2. Install dependencies:
     ```
    npm install
     ```
-   
+3. Run
+    ```
+   npm run start
+    ```
 
-3. **link en vivo**
- https://dulcet-souffle-f23328.netlify.app
+
+ This app is deployed in: https://dulcet-souffle-f23328.netlify.app
 
